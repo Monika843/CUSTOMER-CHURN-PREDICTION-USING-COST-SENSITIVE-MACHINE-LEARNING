@@ -1,0 +1,2 @@
+# CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING
+Customer Churn Prediction using Cost-Sensitive Machine Learning identifies customers likely to leave a business by prioritizing costly misclassifications. The project includes data preprocessing,feature engineering, model training, hyperparameter tuning, and evaluation to improve customer retention through accurate, data-driven predictions.
