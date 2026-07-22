@@ -164,10 +164,10 @@ Example Metrics
 ```text
 CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING/
 │
-├── Dataset/
+├── Dataset
 │   └── Churn_Modelling.csv
 │
-├── notebooks/
+├── notebooks
 │   └── Customer_Churn_Prediction.ipynb
 │
 ├── models/
