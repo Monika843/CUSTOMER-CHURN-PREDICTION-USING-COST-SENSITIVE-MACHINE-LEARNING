@@ -56,7 +56,7 @@ The project uses the **Customer Churn Modeling Dataset**, which contains custome
 
 ### Programming Language
 
-* Python 3.x
+* Python 3.14.6
 
 ### Python Libraries
 
