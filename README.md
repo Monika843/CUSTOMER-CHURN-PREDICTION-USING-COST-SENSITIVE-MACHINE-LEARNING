@@ -1,6 +1,6 @@
 # CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is one of the biggest challenges faced by subscription-based and service-oriented businesses. Losing existing customers not only reduces revenue but also increases the cost of acquiring new customers. This project develops a **Cost-Sensitive Machine Learning** model that predicts whether a customer is likely to churn, while emphasizing the importance of correctly identifying customers at risk of leaving.
 
@@ -8,13 +8,13 @@ Unlike traditional machine learning models that treat all classification errors 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Build an intelligent machine learning model that accurately predicts customer churn using customer demographic and financial information. The model incorporates data preprocessing, feature engineering, class imbalance handling using **SMOTE**, and **XGBoost** classification to improve churn prediction performance.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Data preprocessing and cleaning
 * Exploratory Data Analysis (EDA)
@@ -29,7 +29,7 @@ Build an intelligent machine learning model that accurately predicts customer ch
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses the **Customer Churn Modeling Dataset**, which contains customer information such as:
 
@@ -52,7 +52,7 @@ The project uses the **Customer Churn Modeling Dataset**, which contains custome
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
@@ -76,7 +76,7 @@ Joblib – 1.5.2
 
 ---
 
-## 📋 Project Workflow
+##  Project Workflow
 
 ```text
 Problem Statement
@@ -133,7 +133,7 @@ Model Parameters
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The model is evaluated using:
 
@@ -146,7 +146,7 @@ The model is evaluated using:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 Example Metrics
 
@@ -159,7 +159,7 @@ Example Metrics
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING/
@@ -221,12 +221,12 @@ CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING/
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING.git
+github.com/Monika843/CUSTOMER-CHURN-PREDICTION-USING-COST-SENSITIVE-MACHINE-LEARNING
 ```
 
 Navigate to the project directory
@@ -249,7 +249,7 @@ jupyter notebook
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 1. Open the Jupyter Notebook.
 2. Load the customer churn dataset.
@@ -261,7 +261,7 @@ jupyter notebook
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Hyperparameter optimization using GridSearchCV or RandomizedSearchCV
 * Integration with SHAP for model explainability
@@ -271,7 +271,7 @@ jupyter notebook
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Monika R**
 
@@ -281,17 +281,15 @@ jupyter notebook
 
 GitHub: https://github.com/Monika843
 
-LinkedIn: *(Add your LinkedIn profile URL here.)*
+
+---
+## Implementation project demo
+
+https://customer-churn-prediction-using-cost-sensitive-machine-learnin.streamlit.app/
 
 ---
 
-## 📜 License
-
-This project is developed for academic learning and placement portfolio purposes. You are free to use and modify the project with proper attribution.
-
----
-
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 * Scikit-learn
 * XGBoost
