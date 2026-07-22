@@ -279,7 +279,6 @@ jupyter notebook
 
 **Nehru Institute of Engineering and Technology, Coimbatore**
 
-GitHub: https://github.com/Monika843
 
 
 ---
