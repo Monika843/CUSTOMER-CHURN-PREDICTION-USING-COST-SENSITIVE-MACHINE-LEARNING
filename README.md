@@ -60,15 +60,15 @@ The project uses the **Customer Churn Modeling Dataset**, which contains custome
 
 ### Python Libraries
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* XGBoost
-* Imbalanced-learn (SMOTE)
-* Joblib / Pickle (for model saving)
-
+Python – 3.14.6
+NumPy – 2.3.2
+Pandas – 2.3.2
+Matplotlib – 3.10.6
+Seaborn – 0.13.2
+Scikit-learn – 1.7.2
+XGBoost – 3.1.1
+Imbalanced-learn – 0.14.0
+Joblib – 1.5.2
 ### Development Environment
 
 * Jupyter Notebook
